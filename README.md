@@ -11,3 +11,5 @@
 - add project to koala
 
 - uncheck autocompile for unecessary files and set output path for those folders/files which need compiling  
+
+- bootstrap can be customized from scss/_variables.scss
