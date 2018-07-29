@@ -10,4 +10,4 @@
 
 - add project to koala
 
-- uncheck outcompile for unecessary files and set output files for those folders/files which need compiling  
+- uncheck autocompile for unecessary files and set output path for those folders/files which need compiling  
